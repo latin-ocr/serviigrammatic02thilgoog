@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./serviigrammatic02thilgoog_0005.png"; bbox 0 0 1052 1554; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 573 694 688">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 573 694 688">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 573 674 633; baseline -0.005 -21"><span class='ocrx_word' id='word_1_1' title='bbox 471 573 674 633; x_wconf 41' lang='lat' dir='ltr'>ffiss‘fffflfflww</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 465 597 694 662; baseline -0.009 -23"><span class='ocrx_word' id='word_1_2' title='bbox 465 624 493 662; x_wconf 46' lang='lat' dir='ltr'>x*</span> <span class='ocrx_word' id='word_1_3' title='bbox 514 616 650 653; x_wconf 42' lang='lat' dir='ltr'>L1ss-RRRY</span> <span class='ocrx_word' id='word_1_4' title='bbox 669 597 694 650; x_wconf 54' lang='grc' dir='ltr'>ἕρ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 503 644 665 688; baseline 0.006 -6"><span class='ocrx_word' id='word_1_5' title='bbox 503 644 665 688; x_wconf 44' lang='lat' dir='ltr'>Ultmsffasffl&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 464 718 658 752">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 464 718 658 752">
+     <span class='ocr_line' id='line_1_4' title="bbox 464 718 658 752; baseline 0.005 -5"><span class='ocrx_word' id='word_1_6' title='bbox 464 718 658 752; x_wconf 48' lang='lat' dir='ltr'>&#39;A1s76R9Q</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
